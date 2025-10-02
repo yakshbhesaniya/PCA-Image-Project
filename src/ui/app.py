@@ -17,7 +17,7 @@ import numpy as np
 class PCAApp:
     def __init__(self, root):
         self.root = root
-        root.title("PCT (PCA on Image Bands) — Student Project")
+        root.title("PCT (PCA on Image Bands)")
         self.processor = PCTProcessor()
         self.filepaths = []
         self.orig_dtype = None

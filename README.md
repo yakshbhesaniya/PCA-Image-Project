@@ -1,4 +1,4 @@
-# PCT (Principal Component Transform) — Student Project
+# PCT (Principal Component Transform) 
 
 ## What
 A from-scratch implementation of Principal Component Transform (PCT) on multi-band satelite images.
