@@ -1,7 +1,7 @@
 # PCT (Principal Component Transform) — Student Project
 
 ## What
-A from-scratch implementation of Principal Component Transform (PCT) on multi-band images.
+A from-scratch implementation of Principal Component Transform (PCT) on multi-band satelite images.
 - Computes covariance (explicitly) and eigenvectors (numpy.linalg).
 - Displays principal component images and reconstructs using top-k components.
 - GUI for selecting files, previewing PCs, and saving outputs.
