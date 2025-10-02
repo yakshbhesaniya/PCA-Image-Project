@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/
